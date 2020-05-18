@@ -6,4 +6,5 @@ It takes time to manually determine whether a piece of news is fake news or not,
 
 # Reference
 [1]Granik, M. and Mesyura, V.: Fake news detection using naive Bayes classifier, in IEEE UKRCON, pp. 900–903 (2017)
+
 [2] Tacchini, E., Ballarin, G., Della Vedova, M. L., Moret, S., and Alfaro, de L.: Some like it hoax: Automated fake news detection in social networks, arXiv preprint arXiv:1704.07506 (2017)
